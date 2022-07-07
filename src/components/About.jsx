@@ -43,10 +43,10 @@ export default function About() {
           >
             Hi! My name is Nguyen Long Vu and I am a third year student at Ho
             Chi Minh University Of Science. I am interesting in building
-            interactive web applications. With a technical skill-set, attention
-            to detail, and problem solving skill, I want to work as a Front-end
-            Web Developer who cares deeply about user experience . Serious
-            passion for UI/UX and new technologies.
+            interactive web applications. With a soft, technical skill-set and
+            attention to detail, I want to work as a Front-end Web Developer who
+            cares deeply about user experience . Serious passion for UI/UX and
+            new technologies.
           </motion.div>
           <motion.div
             className='mb-1'
