@@ -13,14 +13,14 @@ const variants = {
 const projects = [
   {
     name: "Chat App",
-    desc: "A single page web app for chatting in realtime, built with ReactJS, Firebase and SCSS.",
+    desc: "A web app for chatting in realtime, built with ReactJS, Firebase and SCSS.",
     demo: "https://chat-app-2022.netlify.app",
     src: "https://github.com/longvu2907/Chat-App",
     techs: ["ReactJS", "Firebase", "SCSS"],
   },
   {
     name: "Personal Website",
-    desc: "My portfolio website I designed and built with ReactJS, Tailwind CSS, Framer-motion. I learned quite a bit about animation in web development.",
+    desc: "My portfolio website I designed and built with ReactJS, Tailwind CSS, Framer-motion.",
     demo: "https://chat-app-2022.netlify.app",
     src: "https://github.com/longvu2907/Chat-App",
     techs: ["ReactJS", "Tailwind CSS", "Framer-motion"],
