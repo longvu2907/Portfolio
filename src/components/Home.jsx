@@ -26,7 +26,7 @@ export default function Home() {
           whileInView={"fadeUp"}
           variants={variants}
         >
-          Creative Front-end Developer
+          Software Developer
         </motion.div>
       </motion.div>
     </motion.div>
